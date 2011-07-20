@@ -10,6 +10,7 @@ and save large files locally. All of this magic should be possible using two maj
 
 [Ericsson labs implementation](https://labs.ericsson.com/apis/web-real-time-communication/)
 
+[Google's web-rtc](https://sites.google.com/site/webrtc/)
 ## Call for participation
 Email: whadar at gmail dot com
 More communication channels will be introduced soon...
